@@ -69,7 +69,7 @@ pod rewrite is Phase 2 follow-up (deferred per user direction 2026-05-21
 
 ## Substrate-boundary notes
 
-Per `etzhayyim/root/CLAUDE.md` §"Substrate boundary":
+Per `etzhayyim/root/AGENTS.md` §"Substrate boundary":
 - This project is kotoba. No `createKyselyDb` / `env.HYPERDRIVE` in
   any deploy from this directory.
 - All paid-tier / commercial-threat-intel features stay vendor.
